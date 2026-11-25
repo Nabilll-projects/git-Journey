@@ -6,4 +6,7 @@ cek Helooooo fourrrrrrrrrr
 
 Modarrrrrrrrrrrrrrrrrrrrrrrrr four
 
-ini harus berisi kode XXXXXXXXXXXXXXXXXX
+ini harus berisi kode XXXXXXXXXXXXXXXXX
+
+
+pull request and comparing
