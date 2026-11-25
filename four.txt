@@ -10,3 +10,5 @@ ini harus berisi kode XXXXXXXXXXXXXXXXX
 
 
 pull request and comparing
+
+jajal lagi.ini saya push yang ini
